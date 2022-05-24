@@ -1,0 +1,28 @@
+.carrotSection {
+  background-color: #f7f5ed;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.cotainer {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  width: 60%;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 50px;
+}
+.boxWrap {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

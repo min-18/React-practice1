@@ -1,0 +1,9 @@
+/* 이름뒤에 module.css 붙여주면 모듈방식으로 css붙일 수 있다. ; react-app 의 파워!*/
+.productModule {
+  width: 32%;
+  margin-bottom: 20px;
+}
+.photo {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 32%;
+}
